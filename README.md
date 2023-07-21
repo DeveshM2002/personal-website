@@ -1,2 +1,2 @@
 # personal-website
-this is a personal website made by using HTML, CSS and javascript only
+this is my personal website made by using HTML and CSS only
